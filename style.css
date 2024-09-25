@@ -2,6 +2,12 @@ body {
     background-color: rgb(247, 247, 160);
 text-align: center;
 }
+
+
 p {
 color: darkblue;
+}
+
+h1 {
+    font-style: italic;
 }
